@@ -1,0 +1,89 @@
+# Gradle files
+.gradle/
+build/
+.kotlin/
+
+# Local development and verification material
+.scratch/
+artifacts/
+AGENTS.md
+captures/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+# Python tooling
+__pycache__/
+*.py[cod]
+
+# Credentials and local signing material
+*.pem
+*.p12
+*.mobileprovision
+
+# Secrets, tokens and private machine settings
+.env
+.env.*
+!.env.example
+!.env.sample
+secrets.properties
+keystore.properties
+signing.properties
+credentials.json
+credentials/
+.aws/
+.ssh/
+.codex/
+.agents/
+.pico/
+*.key
+*.pfx
+*.p8
+id_rsa*
+id_ed25519*
+
+# Other tooling, caches and temporary output
+node_modules/
+.npmrc
+.yarnrc.yml
+.vscode/
+dist/
+out/
+.cache/
+.venv/
+venv/
+.pytest_cache/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~

@@ -1,0 +1,22 @@
+Bridge turning: Door Creak by IENBA (CC0 1.0).
+https://freesound.org/people/IENBA/sounds/607912/
+Source: public HQ MP3 preview. Excerpt 0.85-2.05 seconds, mono 48kHz,
+35ms fade in, 90ms fade out, normalized to -6dBFS; no pitch/speed change.
+Other five effects: locally synthesized for this project.
+Left/right wooden footsteps: original local procedural synthesis, 2026-11-06.
+Background music: original procedural toy-theatre composition and synthesis, 32-second loop, 60 BPM; no external samples.
+
+Additional chapter 2/3/4 mechanical sound layers:
+Local procedural synthesis combined, where used, with the same edited
+Door Creak by IENBA (CC0 1.0) credited above. Preparation manifests record
+this source for lift, cart/track, wind/ferry, power-switch and shield sounds.
+Chime tones are locally synthesized.
+
+Finale ovation (res/raw/finale_ovation.wav):
+Applause Edited 1 by Sadiquecat, Freesound, CC0 1.0.
+https://freesound.org/people/Sadiquecat/sounds/777707/
+Source: public HQ MP3 preview; converted to mono 22050 Hz PCM16,
+peak normalized, 80ms fade-in and 600ms fade-out; duration 7.973 seconds.
+
+CC0 1.0 legal text: https://creativecommons.org/publicdomain/zero/1.0/
+Both source pages checked on 2026-11-12 and identify their sounds as CC0.

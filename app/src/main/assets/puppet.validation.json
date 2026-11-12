@@ -1,0 +1,29 @@
+{
+  "Left": {
+    "upper_direction": [
+      0.7745966692414833,
+      0.44721359549995804,
+      0.4472135954999579
+    ],
+    "forearm_direction_full_pull": [
+      0.3996005990017468,
+      0.8591412878537557,
+      0.3196804792013974
+    ],
+    "clip": "LeftArmPull"
+  },
+  "Right": {
+    "upper_direction": [
+      -0.7745966692414833,
+      0.44721359549995804,
+      0.4472135954999579
+    ],
+    "forearm_direction_full_pull": [
+      -0.39960059900174677,
+      0.8591412878537554,
+      0.3196804792013975
+    ],
+    "clip": "RightArmPull"
+  },
+  "preserved": "All original mesh, textures, bind transforms, skin and 12 gait clips"
+}
