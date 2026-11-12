@@ -40,7 +40,7 @@ Gradle 在执行任务前因会话权限限制失败：`FileLockContentionHandle
 ## 资源和依赖许可
 
 IENBA 的 Door Creak 和 Sadiquecat 的 Applause Edited 1 来源页均标注 CC0；来源链接和加工说明已写入 `SOUND-CREDITS.txt`。
-模型、部分贴图、参考图、图标和模板内容未找到完整公开授权证明，必须由项目所有者确认再分发权限；详情见 [RESOURCE-NOTICES.md](../RESOURCE-NOTICES.md)。未擅自添加整体开源许可证。
+项目所有者后续说明模型和图片主要由 Tripo 与 Codex 生成，其中 Tripo 使用付费积分。已补充该来源信息和平台条款链接；不再将主要资源笼统标记为来源不明。付费积分的具体条款、逐文件对应关系及参考图/模板资源许可尚未完整核实；详情见 [RESOURCE-NOTICES.md](../RESOURCE-NOTICES.md)。未擅自添加整体开源许可证。
 第三方 SDK 和 Maven 依赖未随源码提交二进制，使用与发布仍需遵守它们各自的条款。
 
 ## 推送前仍需解决
